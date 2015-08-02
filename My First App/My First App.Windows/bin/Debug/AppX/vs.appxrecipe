@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LIQUIDTHORAX</Machine>
+    <WindowsUser>GonzoDark</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>81f10769-4c43-4f02-93dd-a453b392527c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C0CBE0E96ED7EDE6ED13347D6E03FCBA1EB672670D6759CDE3C05180C85BD857</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>81f10769-4c43-4f02-93dd-a453b392527c_1.0.0.0_neutral__f256kwhdn39w0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>81f10769-4c43-4f02-93dd-a453b392527c_f256kwhdn39w0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>81f10769-4c43-4f02-93dd-a453b392527c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=GonzoDark</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-19T19:43:34.898</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\bin\Debug\My First App.Windows.exe">
+      <PackagePath>My First App.Windows.exe</PackagePath>
+      <Modified>2015-08-02T15:03:18.004</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-19T19:08:52.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-19T19:08:52.856</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-19T19:08:52.859</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-19T19:08:52.861</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-07-19T19:43:34.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-08-02T15:03:17.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\bin\Debug\My First App.Windows.xr.xml">
+      <PackagePath>My First App.Windows.xr.xml</PackagePath>
+      <Modified>2015-08-02T15:03:17.621</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-07-19T19:43:34.749</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

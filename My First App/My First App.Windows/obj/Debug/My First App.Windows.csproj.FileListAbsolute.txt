@@ -1,0 +1,32 @@
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\bin\Debug\App.xbf
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\bin\Debug\MainPage.xbf
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\bin\Debug\My First App.Windows.xr.xml
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\bin\Debug\My First App.Windows.exe
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\bin\Debug\My First App.Windows.pdb
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\bin\Debug\resources.pri
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\bin\Debug\AppxManifest.xml
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\bin\Debug\My First App.Windows.build.appxrecipe
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\App.g.i.cs
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\App.g.cs
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\MainPage.g.cs
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\App.xaml
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\MainPage.xaml
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\App.xbf
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\MainPage.xbf
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\My First App.Windows.exe
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\My First App.Windows.pdb
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\priconfig.xml
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\layout.resfiles
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\resources.resfiles
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\pri.resfiles
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\qualifiers.txt
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\GonzoDark\Documents\Alien-Attack\My First App\My First App.Windows\obj\Debug\ProjectArchitectures.txt
